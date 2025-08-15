@@ -1,0 +1,41 @@
+[
+ {
+  "activity_type": "Project Management",
+  "billing_rate": 200.0,
+  "costing_rate": 0.0,
+  "department": "",
+  "docstatus": 0,
+  "doctype": "Activity Cost",
+  "employee": "",
+  "employee_name": "",
+  "modified": "2025-08-15 17:28:35.650035",
+  "name": "PROJ-ACC-00001",
+  "title": "Project Management"
+ },
+ {
+  "activity_type": "Quality Assurance",
+  "billing_rate": 75.0,
+  "costing_rate": 0.0,
+  "department": null,
+  "docstatus": 0,
+  "doctype": "Activity Cost",
+  "employee": null,
+  "employee_name": null,
+  "modified": "2025-08-15 17:29:02.418794",
+  "name": "PROJ-ACC-00002",
+  "title": "Quality Assurance"
+ },
+ {
+  "activity_type": "Development",
+  "billing_rate": 150.0,
+  "costing_rate": 0.0,
+  "department": null,
+  "docstatus": 0,
+  "doctype": "Activity Cost",
+  "employee": null,
+  "employee_name": null,
+  "modified": "2025-08-15 17:29:08.231955",
+  "name": "PROJ-ACC-00003",
+  "title": "Development"
+ }
+]

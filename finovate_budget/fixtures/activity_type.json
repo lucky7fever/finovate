@@ -1,0 +1,82 @@
+[
+ {
+  "activity_type": "Planning",
+  "billing_rate": 0.0,
+  "costing_rate": 0.0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Activity Type",
+  "modified": "2025-08-14 01:25:54.001115",
+  "name": "Planning"
+ },
+ {
+  "activity_type": "Research",
+  "billing_rate": 0.0,
+  "costing_rate": 0.0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Activity Type",
+  "modified": "2025-08-14 01:25:54.004772",
+  "name": "Research"
+ },
+ {
+  "activity_type": "Proposal Writing",
+  "billing_rate": 0.0,
+  "costing_rate": 0.0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Activity Type",
+  "modified": "2025-08-14 01:25:54.006161",
+  "name": "Proposal Writing"
+ },
+ {
+  "activity_type": "Execution",
+  "billing_rate": 0.0,
+  "costing_rate": 0.0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Activity Type",
+  "modified": "2025-08-14 01:25:54.007861",
+  "name": "Execution"
+ },
+ {
+  "activity_type": "Communication",
+  "billing_rate": 0.0,
+  "costing_rate": 0.0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Activity Type",
+  "modified": "2025-08-14 01:25:54.009204",
+  "name": "Communication"
+ },
+ {
+  "activity_type": "Development",
+  "billing_rate": 0.0,
+  "costing_rate": 0.0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Activity Type",
+  "modified": "2025-08-15 17:26:52.793810",
+  "name": "Development"
+ },
+ {
+  "activity_type": "Quality Assurance",
+  "billing_rate": 0.0,
+  "costing_rate": 0.0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Activity Type",
+  "modified": "2025-08-15 17:27:09.570537",
+  "name": "Quality Assurance"
+ },
+ {
+  "activity_type": "Project Management",
+  "billing_rate": 0.0,
+  "costing_rate": 0.0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Activity Type",
+  "modified": "2025-08-15 17:27:32.461202",
+  "name": "Project Management"
+ }
+]

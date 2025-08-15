@@ -48,6 +48,9 @@ app_license = "mit"
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
 
+doctype_js = {
+    "Project": "public/js/project.js" #  Load  script on project form
+}
 # Svg Icons
 # ------------------
 # include app icons in desk
@@ -242,3 +245,7 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+fixtures = [
+    "Activity Type",
+    "Activity Cost"
+]
