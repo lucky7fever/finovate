@@ -1,0 +1,42 @@
+[
+ {
+  "accounts": [
+   {
+    "accumulated_depreciation_account": "Accumulated Depreciation - FNV",
+    "capital_work_in_progress_account": null,
+    "company_name": "Finovate",
+    "depreciation_expense_account": "Depreciation - FNV",
+    "fixed_asset_account": "Buildings - FNV",
+    "parent": "Buildings - FNV",
+    "parentfield": "accounts",
+    "parenttype": "Asset Category"
+   }
+  ],
+  "asset_category_name": "Buildings - FNV",
+  "docstatus": 0,
+  "doctype": "Asset Category",
+  "enable_cwip_accounting": 0,
+  "finance_books": [
+   {
+    "daily_prorata_based": 0,
+    "depreciation_method": "Straight Line",
+    "depreciation_start_date": null,
+    "expected_value_after_useful_life": 0.0,
+    "finance_book": "FNV Book",
+    "frequency_of_depreciation": 6,
+    "parent": "Buildings - FNV",
+    "parentfield": "finance_books",
+    "parenttype": "Asset Category",
+    "rate_of_depreciation": 0.0,
+    "salvage_value_percentage": 0.0,
+    "shift_based": 0,
+    "total_number_of_booked_depreciations": 0,
+    "total_number_of_depreciations": 240,
+    "value_after_depreciation": 0.0
+   }
+  ],
+  "modified": "2025-08-18 20:39:06.415921",
+  "name": "Buildings - FNV",
+  "non_depreciable_category": 0
+ }
+]

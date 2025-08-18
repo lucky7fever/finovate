@@ -1,0 +1,33 @@
+[
+ {
+  "accounts": [
+   {
+    "account": "Cash - FNV",
+    "company": "Finovate",
+    "parent": "Withholding Tax",
+    "parentfield": "accounts",
+    "parenttype": "Tax Withholding Category"
+   }
+  ],
+  "category_name": "Withholding Tax - 2% - FNV",
+  "consider_party_ledger_amount": 0,
+  "docstatus": 0,
+  "doctype": "Tax Withholding Category",
+  "modified": "2025-08-18 19:37:56.909226",
+  "name": "Withholding Tax",
+  "rates": [
+   {
+    "cumulative_threshold": 0.0,
+    "from_date": "2025-08-18",
+    "parent": "Withholding Tax",
+    "parentfield": "rates",
+    "parenttype": "Tax Withholding Category",
+    "single_threshold": 0.0,
+    "tax_withholding_rate": 2.0,
+    "to_date": "2025-08-31"
+   }
+  ],
+  "round_off_tax_amount": 0,
+  "tax_on_excess_amount": 0
+ }
+]

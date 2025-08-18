@@ -247,5 +247,8 @@ doctype_js = {
 
 fixtures = [
     "Activity Type",
-    "Activity Cost"
+    "Activity Cost",
+    "Sales Taxes and Charges Template",
+    "Tax Withholding Category",
+    "Asset Category" 
 ]
