@@ -252,5 +252,6 @@ fixtures = [
     "Tax Withholding Category",
     "Asset Category",
     "Finance Book",
-    "Property Setter"
+    "Property Setter",
+     "System Settings"
 ]
