@@ -250,5 +250,7 @@ fixtures = [
     "Activity Cost",
     "Sales Taxes and Charges Template",
     "Tax Withholding Category",
-    "Asset Category" 
+    "Asset Category",
+    "Finance Book",
+    "Property Setter"
 ]
